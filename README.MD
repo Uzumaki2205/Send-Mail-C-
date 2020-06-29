@@ -1,5 +1,6 @@
 # SEND MAIL BY LENGOCSON
-## Framework
-- Entities Framework.
-## How TO Use ??
-## How To Setup ??
+## Design
+- Use Material Design
+## How To Use ??
+- Just only send to Gmail.
+- Use the same as Gmail.
