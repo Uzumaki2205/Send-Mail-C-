@@ -1,5 +1,5 @@
 # SEND MAIL BY LENGOCSON
-## Design
+## New
 - Use Material Design
 ## How To Use ??
 - Just only send to Gmail.
